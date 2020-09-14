@@ -1,0 +1,6 @@
+this has his original files from the course
+
+need to Aux to Auxiliary
+
+need to update with my Firebase server
+https://react-my-burger-7d58a.firebaseio.com/ingredients.json
